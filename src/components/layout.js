@@ -1,7 +1,7 @@
 import React from "react"
 import Img from "gatsby-image"
 import styled from "@emotion/styled"
- 
+  
 import Navigation from "./navigation"
 import { rhythm } from "../utils/typography"
 import logo from "../images/monogram.svg"
