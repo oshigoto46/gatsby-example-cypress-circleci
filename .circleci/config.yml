@@ -6,7 +6,7 @@ executors:
       - image: cypress/browsers:chrome69
 
 orbs:
-  cypress: cypress-io/cypress@1.9.0
+  cypress: cypress-io/cypress@1.29.0
 
 workflows:
   build:
